@@ -15,4 +15,4 @@ The **OpenAI Content Similarity Generator** integrates with WordPress to generat
 ### Step 1: Download or Clone the Repository
 Clone the repository to your local machine or server:
 ```bash
-git clone https://github.com/yourusername/OpenAI-Content-Similarity-Generator.git
+git clone https://github.com/MitaliP001/OpenAI-Content-Similarity-Generator.git
